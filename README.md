@@ -1,2 +1,3 @@
 # c_project
-Basic c project mainly using if-else,while conditions to make sign-up and sign-in features (Sign-up password by seller:- admin@123)
+The C program implements sign-in and sign-up functionality, inspired by operating systems. Utilizing a while loop and if-else conditions, users can create accounts or log in securely, making it a foundational component for user authentication in various applications.
+(Sign-up password by the seller:- admin@123)
